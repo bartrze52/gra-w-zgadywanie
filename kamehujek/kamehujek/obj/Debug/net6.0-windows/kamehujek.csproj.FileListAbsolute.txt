@@ -1,0 +1,17 @@
+C:\Users\trzesniewski.bartosz\source\repos\kamehujek\kamehujek\bin\Debug\net6.0-windows\kamehujek.exe
+C:\Users\trzesniewski.bartosz\source\repos\kamehujek\kamehujek\bin\Debug\net6.0-windows\kamehujek.deps.json
+C:\Users\trzesniewski.bartosz\source\repos\kamehujek\kamehujek\bin\Debug\net6.0-windows\kamehujek.runtimeconfig.json
+C:\Users\trzesniewski.bartosz\source\repos\kamehujek\kamehujek\bin\Debug\net6.0-windows\kamehujek.dll
+C:\Users\trzesniewski.bartosz\source\repos\kamehujek\kamehujek\bin\Debug\net6.0-windows\kamehujek.pdb
+C:\Users\trzesniewski.bartosz\source\repos\kamehujek\kamehujek\obj\Debug\net6.0-windows\kamehujek.csproj.AssemblyReference.cache
+C:\Users\trzesniewski.bartosz\source\repos\kamehujek\kamehujek\obj\Debug\net6.0-windows\kamehujek.Form1.resources
+C:\Users\trzesniewski.bartosz\source\repos\kamehujek\kamehujek\obj\Debug\net6.0-windows\kamehujek.csproj.GenerateResource.cache
+C:\Users\trzesniewski.bartosz\source\repos\kamehujek\kamehujek\obj\Debug\net6.0-windows\kamehujek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trzesniewski.bartosz\source\repos\kamehujek\kamehujek\obj\Debug\net6.0-windows\kamehujek.AssemblyInfoInputs.cache
+C:\Users\trzesniewski.bartosz\source\repos\kamehujek\kamehujek\obj\Debug\net6.0-windows\kamehujek.AssemblyInfo.cs
+C:\Users\trzesniewski.bartosz\source\repos\kamehujek\kamehujek\obj\Debug\net6.0-windows\kamehujek.csproj.CoreCompileInputs.cache
+C:\Users\trzesniewski.bartosz\source\repos\kamehujek\kamehujek\obj\Debug\net6.0-windows\kamehujek.dll
+C:\Users\trzesniewski.bartosz\source\repos\kamehujek\kamehujek\obj\Debug\net6.0-windows\refint\kamehujek.dll
+C:\Users\trzesniewski.bartosz\source\repos\kamehujek\kamehujek\obj\Debug\net6.0-windows\kamehujek.pdb
+C:\Users\trzesniewski.bartosz\source\repos\kamehujek\kamehujek\obj\Debug\net6.0-windows\kamehujek.genruntimeconfig.cache
+C:\Users\trzesniewski.bartosz\source\repos\kamehujek\kamehujek\obj\Debug\net6.0-windows\ref\kamehujek.dll
